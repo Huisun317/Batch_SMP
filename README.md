@@ -6,4 +6,4 @@ Maximum Principle*. where we
 
 *  **Proposed a new algorithm (dampped contraction) which leverages both the necessary and sufficient condition of the SMP**
 
-* **Show how to combine the idea (currently only projection) with DNN and use it to solve a high dimensional PDE **
+* **Show how to combine the idea (currently only projection) with DNN and use it to solve a high dimensional PDE**
